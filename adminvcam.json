@@ -7,8 +7,8 @@
     },
     {
         "device_id": "4c3beff0a6b1224a",
-        "key": "key680",
+        "key": "key6800",
         "expirydate": "15-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     }
 ]
