@@ -58,11 +58,5 @@
     "key": "user08",
     "expirydate": "31-10-2025",
     "Allowoffline": false
-  },
-  {
-    "device_id": "293ab4c5d6e7f809",
-    "key": "user099",
-    "expirydate": "15-11-2025",
-    "Allowoffline": false
   }
 ]
