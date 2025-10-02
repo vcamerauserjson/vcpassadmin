@@ -40,5 +40,12 @@
     "key": "1234",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6a72c90dbdb7b272",
+    "username": "Vc52",
+    "key": "Trial1hour",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
