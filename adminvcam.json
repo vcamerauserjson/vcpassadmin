@@ -23,7 +23,7 @@
   {
     "device_id": "4c3beff0a6b1224a",
     "username": "Admin Sani",
-    "key": "vai2222",
+    "key": "vai222",
     "expirydate": "31-12-2025",
     "Allowoffline": true
   },
@@ -73,6 +73,20 @@
     "device_id": "3ae68a7e38b063f0",
     "username": "Vc30",
     "key": "VC30@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "a66c703ce387d01e",
+    "username": "+92 349 0807616",
+    "key": "+92 349 0807616",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "32645e876f12f591",
+    "username": "+972 59-343-7717",
+    "key": "+972 59-343-7717",
     "expirydate": "31-12-2025",
     "Allowoffline": false
   }
