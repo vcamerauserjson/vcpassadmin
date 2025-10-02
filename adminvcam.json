@@ -22,10 +22,10 @@
   },
   {
     "device_id": "4c3beff0a6b1224a",
+    "username": "Admin Sani",
     "key": "vai222",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "username": "Vai 222"
+    "Allowoffline": true
   },
   {
     "device_id": "New1",
