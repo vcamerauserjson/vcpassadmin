@@ -110,5 +110,12 @@
     "key": "+923342768284",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "13575bb8b31b0d13",
+    "username": "A@",
+    "key": "NewUser101",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
