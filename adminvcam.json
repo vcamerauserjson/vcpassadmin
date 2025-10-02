@@ -91,27 +91,6 @@
     "Allowoffline": false
   },
   {
-    "device_id": "New3",
-    "username": "New3",
-    "key": "1234",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "1",
-    "username": "1",
-    "key": "1",
-    "expirydate": "31-12-2025",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "7",
-    "username": "7",
-    "key": "7",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false
-  },
-  {
     "device_id": "9660a429d480b3dd",
     "username": "vc22",
     "key": "+213 669 64 67 79 Blocked",
