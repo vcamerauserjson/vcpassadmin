@@ -8,10 +8,10 @@
   },
   {
     "device_id": "7ffd101fdff594e1",
-    "key": "boss111",
+    "username": "Nequi2",
+    "key": "Block",
     "expirydate": "15-12-2025",
-    "Allowoffline": false,
-    "username": "Boss User"
+    "Allowoffline": false
   },
   {
     "device_id": "6d4d7d4f77b0202a",
@@ -33,12 +33,5 @@
     "expirydate": "31-12-2027",
     "Allowoffline": false,
     "username": "New User"
-  },
-  {
-    "device_id": "New2",
-    "username": "New2",
-    "key": "1234",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false
   }
 ]
