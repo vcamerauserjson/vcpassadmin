@@ -33,5 +33,12 @@
     "expirydate": "31-12-2027",
     "Allowoffline": false,
     "username": "New User"
+  },
+  {
+    "device_id": "New2",
+    "username": "New2",
+    "key": "1234",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
