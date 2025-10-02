@@ -4,129 +4,97 @@
     "username": "Tech Vai",
     "key": "TechVai Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "status": "offline",
-    "last_seen": "2025-10-01 14:30:00",
-    "online_duration": "0m"
+    "Allowoffline": false
   },
   {
     "device_id": "7ffd101fdff594e1",
     "username": "Nequi2",
     "key": "Block",
     "expirydate": "15-12-2025",
-    "Allowoffline": false,
-    "status": "offline",
-    "last_seen": "2025-10-01 10:20:00",
-    "online_duration": "0m"
+    "Allowoffline": false
   },
   {
     "device_id": "6d4d7d4f77b0202a",
-    "username": "Nequi",
     "key": "Nequi@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "status": "offline",
-    "last_seen": "2025-10-01 11:45:00",
-    "online_duration": "0m"
+    "username": "Nequi"
   },
   {
     "device_id": "4c3beff0a6b1224a",
     "username": "Admin Sani",
     "key": "vai222",
     "expirydate": "31-12-2025",
-    "Allowoffline": true,
-    "status": "offline",
-    "last_seen": "2025-10-01 09:50:00",
-    "online_duration": "0m"
+    "Allowoffline": true
   },
   {
     "device_id": "New1",
-    "username": "New User",
     "key": "New1",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
-    "status": "offline",
-    "last_seen": "2025-10-01 00:00:00",
-    "online_duration": "0m"
+    "username": "New User"
   },
   {
     "device_id": "New2",
     "username": "New2",
     "key": "1234",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "status": "offline",
-    "last_seen": "2025-10-01 00:00:00",
-    "online_duration": "0m"
+    "Allowoffline": false
   },
   {
     "device_id": "0376e8a6fbbfa139",
     "username": "Vc105",
     "key": "Trial1hour Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "status": "offline",
-    "last_seen": "2025-10-01 13:15:00",
-    "online_duration": "0m"
+    "Allowoffline": false
   },
   {
     "device_id": "3a823cc083c5527d",
     "username": "Daniel",
     "key": "Tech@11 Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "status": "offline",
-    "last_seen": "2025-10-01 16:10:00",
-    "online_duration": "0m"
+    "Allowoffline": false
   },
   {
     "device_id": "d31f0c7d1f742a5e",
     "username": "+923089378922",
     "key": "Trial1hour Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "status": "offline",
-    "last_seen": "2025-10-01 08:45:00",
-    "online_duration": "0m"
+    "Allowoffline": false
   },
   {
     "device_id": "a66c703ce387d01e",
     "username": "vc90",
     "key": "Trial1hourTech Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "status": "offline",
-    "last_seen": "2025-10-01 12:30:00",
-    "online_duration": "0m"
+    "Allowoffline": false
   },
   {
     "device_id": "3ae68a7e38b063f0",
     "username": "Vc30",
     "key": "VC30@1",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "status": "offline",
-    "last_seen": "2025-10-01 15:00:00",
-    "online_duration": "0m"
+    "Allowoffline": false
   },
   {
     "device_id": "a66c703ce387d01e",
     "username": "+92 349 0807616",
     "key": "+92 349 0807616",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "status": "offline",
-    "last_seen": "2025-10-01 00:00:00",
-    "online_duration": "0m"
+    "Allowoffline": false
   },
   {
     "device_id": "32645e876f12f591",
     "username": "+972 59-343-7717",
     "key": "+972 59-343-7717",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "status": "offline",
-    "last_seen": "2025-10-01 00:00:00",
-    "online_duration": "0m"
+    "Allowoffline": false
+  },
+  {
+    "device_id": "New3",
+    "username": "New3",
+    "key": "1234",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
