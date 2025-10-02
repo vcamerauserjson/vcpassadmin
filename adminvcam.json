@@ -68,5 +68,12 @@
     "key": "Trial1hourTech Blocked",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "0b928751afa21691",
+    "username": "Rohan Agency",
+    "key": "Rohan@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
