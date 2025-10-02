@@ -103,5 +103,12 @@
     "key": "1",
     "expirydate": "31-12-2025",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7",
+    "username": "7",
+    "key": "7",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
