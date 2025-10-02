@@ -47,5 +47,12 @@
     "key": "Trial1hour",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "0376e8a6fbbfa139",
+    "username": "Vc105",
+    "key": "Trial1hour",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
