@@ -22,5 +22,11 @@
     "key": "vai222",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "New1",
+    "key": "New1",
+    "expirydate": "31/12/2027",
+    "Allowoffline": false
   }
 ]
