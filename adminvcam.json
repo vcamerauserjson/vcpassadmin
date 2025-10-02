@@ -1,10 +1,10 @@
 [
   {
     "device_id": "2797fec79198b26f",
-    "key": "TechVai",
+    "username": "Tech Vai",
+    "key": "TechVai Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "username": "Tech Vai"
+    "Allowoffline": false
   },
   {
     "device_id": "7ffd101fdff594e1",
