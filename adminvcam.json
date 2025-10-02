@@ -54,5 +54,12 @@
     "key": "Trial1hour",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3a823cc083c5527d",
+    "username": "Daniel",
+    "key": "Tech@11",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
