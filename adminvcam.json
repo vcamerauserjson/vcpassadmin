@@ -54,5 +54,12 @@
     "key": "Tech@11 Blocked",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "a66c703ce387d01e",
+    "username": "Vc90",
+    "key": "Trial1hour",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
