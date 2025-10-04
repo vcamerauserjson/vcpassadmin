@@ -138,5 +138,12 @@
     "key": "User1250block",
     "expirydate": "02/06/2027",
     "Allowoffline": false
+  },
+  {
+    "device_id": "65c586791190dcf5",
+    "username": "+880 1868-509466 oct5 nov5",
+    "key": "01868509466",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
