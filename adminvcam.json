@@ -114,7 +114,7 @@
   {
     "device_id": "13575bb8b31b0d13",
     "username": "A@",
-    "key": "NewUser101",
+    "key": "NewUser101block",
     "expirydate": "01/06/2027",
     "Allowoffline": false
   },
@@ -135,7 +135,7 @@
   {
     "device_id": "767835fa1917a421",
     "username": "Telegram mi mi",
-    "key": "User1250",
+    "key": "User1250block",
     "expirydate": "02/06/2027",
     "Allowoffline": false
   }
