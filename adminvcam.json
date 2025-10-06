@@ -145,5 +145,12 @@
     "key": "01868509466",
     "expirydate": "01/08/2027",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e6d880db9337a3a5",
+    "username": "Telegram user1",
+    "key": "User1230",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
