@@ -152,5 +152,12 @@
     "key": "User1230",
     "expirydate": "01/09/2027",
     "Allowoffline": false
+  },
+  {
+    "device_id": "c79386ed28175b51",
+    "username": "+91 94878 32416",
+    "key": "+919487832416",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
