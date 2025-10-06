@@ -166,5 +166,12 @@
     "key": "Vcamera",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "ef11d02241367b17",
+    "username": "sk telegram",
+    "key": "SK10",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
