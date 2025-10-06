@@ -100,7 +100,7 @@
   {
     "device_id": "653dc55c2128ac50",
     "username": "+57 323 6914653",
-    "key": "+57 323 6914653",
+    "key": "+57 323 6914653blocked",
     "expirydate": "31-12-2025",
     "Allowoffline": false
   },
@@ -150,7 +150,7 @@
     "device_id": "e6d880db9337a3a5",
     "username": "Telegram user1",
     "key": "User1230",
-    "expirydate": "31-12-2025",
+    "expirydate": "01/09/2027",
     "Allowoffline": false
   }
 ]
