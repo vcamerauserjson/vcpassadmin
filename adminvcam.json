@@ -173,5 +173,12 @@
     "key": "SK10",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "31079483d83dd421",
+    "username": "hafizul1",
+    "key": "Hafizul@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
