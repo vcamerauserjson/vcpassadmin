@@ -201,5 +201,12 @@
     "key": "Shariq@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "23124c657cb0b19b",
+    "username": "+20 10 65779907",
+    "key": "+201065779907",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
