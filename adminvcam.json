@@ -187,5 +187,12 @@
     "key": "01920512532",
     "expirydate": "01/07/2029",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b38230ca08b1bf7b",
+    "username": "hafizul 2",
+    "key": "Musfiq@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
