@@ -194,5 +194,12 @@
     "key": "Musfiq@1f",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "0a96875c8d3cd64e",
+    "username": "hafizul3",
+    "key": "Shariq@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
