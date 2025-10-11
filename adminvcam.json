@@ -187,33 +187,5 @@
     "key": "01920512532block",
     "expirydate": "01/07/2029",
     "Allowoffline": false
-  },
-  {
-    "device_id": "b38230ca08b1bf7b",
-    "username": "hafizul 2",
-    "key": "Musfiq@1f",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "0a96875c8d3cd64e",
-    "username": "hafizul3",
-    "key": "Shariq@1block",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "23124c657cb0b19b",
-    "username": "+20 10 65779907",
-    "key": "+201065779907block",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "42a8cf4e9406606d",
-    "username": "+54 9 3735 48-4018",
-    "key": "+5493735484018block",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false
   }
 ]
