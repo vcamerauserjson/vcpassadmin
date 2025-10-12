@@ -229,5 +229,12 @@
     "key": "Bobby@10",
     "expirydate": "13-10-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "0c3ffb57eaba43eb",
+    "username": "Hafizul",
+    "key": "Irfan@1",
+    "expirydate": "13-12-2025",
+    "Allowoffline": false
   }
 ]
