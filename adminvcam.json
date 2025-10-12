@@ -28,13 +28,6 @@
     "Allowoffline": true
   },
   {
-    "device_id": "New1",
-    "key": "New1",
-    "expirydate": "31-12-2027",
-    "Allowoffline": false,
-    "username": "New User"
-  },
-  {
     "device_id": "New2",
     "username": "New2",
     "key": "1234",
