@@ -236,5 +236,12 @@
     "key": "Irfan@1block",
     "expirydate": "13-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "57c98b47c60e2d02",
+    "username": "+880 1777-292852",
+    "key": "01777292852",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
