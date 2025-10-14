@@ -271,5 +271,12 @@
     "key": "nowrin",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9f33a75302554dd2",
+    "username": "MySelf",
+    "key": "Vcamera1",
+    "expirydate": "12-12-2025",
+    "Allowoffline": false
   }
 ]
