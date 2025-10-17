@@ -285,5 +285,12 @@
     "key": "Vcam@@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e061d39c4f38fa12",
+    "username": "1012",
+    "key": "Vcamera1111",
+    "expirydate": "12-12-2025",
+    "Allowoffline": false
   }
 ]
