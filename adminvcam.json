@@ -299,5 +299,12 @@
     "key": "2Days",
     "expirydate": "12-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "5db571f792dfd153",
+    "username": "40$- paid",
+    "key": "Vcameravip1",
+    "expirydate": "12-12-2025",
+    "Allowoffline": false
   }
 ]
