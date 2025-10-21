@@ -313,5 +313,12 @@
     "key": "Vcamerapro2block",
     "expirydate": "12-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9240f5f0aefc0869",
+    "username": "Rubel",
+    "key": "Vcameravip3",
+    "expirydate": "12-12-2025",
+    "Allowoffline": false
   }
 ]
