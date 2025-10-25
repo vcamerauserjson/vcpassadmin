@@ -320,5 +320,12 @@
     "key": "Vcameravip3block",
     "expirydate": "12-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3d6e4f68f238dd18",
+    "username": "NewTG",
+    "key": "United@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
