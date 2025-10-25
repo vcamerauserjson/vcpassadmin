@@ -327,5 +327,12 @@
     "key": "United@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8d5a7ec697667b8a",
+    "username": "Karim vai",
+    "key": "Vcamera35",
+    "expirydate": "12-12-2025",
+    "Allowoffline": false
   }
 ]
