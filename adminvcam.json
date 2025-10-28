@@ -334,5 +334,12 @@
     "key": "Vcamera4block",
     "expirydate": "12-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f2f20c3445c0202a",
+    "username": "+880 1757-911407",
+    "key": "01757911407",
+    "expirydate": "31-12-2050",
+    "Allowoffline": false
   }
 ]
