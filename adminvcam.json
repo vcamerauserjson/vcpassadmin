@@ -114,7 +114,8 @@
     "username": "Telegram mi mi",
     "key": "User1250block",
     "expirydate": "02/06/2027",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
