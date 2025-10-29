@@ -348,7 +348,8 @@
     "username": "Rubel",
     "key": "Vcameravip3block",
     "expirydate": "12-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 20,
