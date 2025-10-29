@@ -100,11 +100,11 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
+    "paymentBDT": 1000,
     "device_id": "7f7ba86c25cd45f8",
-    "username": "+880 1843-043803 oct4 - murch4",
+    "username": "+880 1843-043803",
     "key": "+880 1843-043803",
-    "expirydate": "31-12-2026",
+    "expirydate": "01-01-2026",
     "Allowoffline": false
   },
   {
