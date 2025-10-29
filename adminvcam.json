@@ -2,6 +2,34 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
+    "device_id": "2797fec7tttttttttt9198b26f",
+    "username": "Tech Vai",
+    "key": "TechVai",
+    "expirydate": "01/07/2027",
+    "Allowoffline": false
+  },
+  {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
+    "device_id": "7ffd101fdff594e1",
+    "username": "Nequi2",
+    "key": "Block",
+    "expirydate": "15-12-2025",
+    "Allowoffline": false,
+    "blocked": true
+  },
+  {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
+    "device_id": "6d4d7d4f77ttttttttttttb0202a",
+    "username": "Nequi",
+    "key": "Nequi@1",
+    "expirydate": "01/06/2028",
+    "Allowoffline": false
+  },
+  {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "4c3beff0a6b1224a",
     "username": "Admin Vai",
     "key": "Admin",
@@ -11,12 +39,47 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
+    "device_id": "New2",
+    "username": "New2",
+    "key": "1234",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
+  },
+  {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
+    "device_id": "0376e8a6fbbfa139",
+    "username": "Vc105",
+    "key": "Trial1hour Blocked",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
+  },
+  {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
+    "device_id": "3a823cc083c5527d",
+    "username": "Daniel",
+    "key": "Tech@11 Blocked",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
+  },
+  {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
+    "device_id": "d31f0c7d1f742a5e",
+    "username": "+923089378922",
+    "key": "Trial1hour Blocked",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
+  },
+  {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a66c703ce387d01e",
     "username": "vc90",
     "key": "Trial1hourTech Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -25,8 +88,7 @@
     "username": "Vc30",
     "key": "VC30@1",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -35,8 +97,7 @@
     "username": "+92 349 0807616",
     "key": "+92 349 0807616 Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -45,8 +106,7 @@
     "username": "+972 59-343-7717",
     "key": "+972 59-343-7717 Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -55,8 +115,7 @@
     "username": "vc22",
     "key": "+213 669 64 67 79 Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -65,8 +124,7 @@
     "username": "+57 323 6914653",
     "key": "+57 323 6914653",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -75,8 +133,7 @@
     "username": "+923342768284",
     "key": "+923342768284 Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -85,8 +142,7 @@
     "username": "A@",
     "key": "NewUser101",
     "expirydate": "03-10-2026",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -95,16 +151,15 @@
     "username": "+880 1614-642832",
     "key": "+880 1614-642832 Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 1000,
+    "paymentBDT": 0,
     "device_id": "7f7ba86c25cd45f8",
-    "username": "+880 1843-043803",
+    "username": "+880 1843-043803 oct4 - murch4",
     "key": "+880 1843-043803",
-    "expirydate": "01-01-2026",
+    "expirydate": "31-12-2026",
     "Allowoffline": false
   },
   {
@@ -114,8 +169,7 @@
     "username": "Telegram mi mi",
     "key": "User1250block",
     "expirydate": "02/06/2027",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -124,8 +178,7 @@
     "username": "+880 1868-509466 oct5 nov5",
     "key": "01868509466block",
     "expirydate": "01/08/2027",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -134,8 +187,7 @@
     "username": "Telegram user1",
     "key": "User1230block",
     "expirydate": "01/09/2027",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -144,8 +196,7 @@
     "username": "+91 94878 32416",
     "key": "+919487832416block",
     "expirydate": "01/03/2027",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -154,8 +205,7 @@
     "username": "Telegram vilain",
     "key": "Vcamerablock",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -338,7 +388,7 @@
     "Allowoffline": false
   },
   {
-    "paymentUSD": 40,
+    "paymentUSD": 0,
     "paymentBDT": 0,
     "device_id": "5db571f792dfd153",
     "username": "40$- paid",
@@ -353,8 +403,7 @@
     "username": "RRRR",
     "key": "Vcamerapro2block",
     "expirydate": "12-12-2025",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
@@ -363,11 +412,10 @@
     "username": "Rubel",
     "key": "Vcameravip3block",
     "expirydate": "12-12-2025",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
-    "paymentUSD": 20,
+    "paymentUSD": 0,
     "paymentBDT": 0,
     "device_id": "d712a646ce213a5b",
     "username": "NewTG+20$",
@@ -382,16 +430,15 @@
     "username": "OG",
     "key": "Vcamera4block",
     "expirydate": "12-12-2025",
-    "Allowoffline": false,
-    "blocked": true
+    "Allowoffline": false
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 1000,
+    "paymentBDT": 0,
     "device_id": "f2f20c3445c0202a",
     "username": "+880 1757-911407",
     "key": "01757911407",
-    "expirydate": "03-11-2025",
+    "expirydate": "31-12-2050",
     "Allowoffline": false
   }
 ]
