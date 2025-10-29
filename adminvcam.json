@@ -339,7 +339,8 @@
     "username": "RRRR",
     "key": "Vcamerapro2block",
     "expirydate": "12-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
