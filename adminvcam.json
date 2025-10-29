@@ -1,5 +1,7 @@
 [
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "2797fec7tttttttttt9198b26f",
     "username": "Tech Vai",
     "key": "TechVai",
@@ -7,6 +9,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "7ffd101fdff594e1",
     "username": "Nequi2",
     "key": "Block",
@@ -14,6 +18,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "6d4d7d4f77ttttttttttttb0202a",
     "username": "Nequi",
     "key": "Nequi@1",
@@ -21,13 +27,17 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "4c3beff0a6b1224a",
-    "username": "Admin Sani",
+    "username": "Admin Vai",
     "key": "Admin",
     "expirydate": "03-10-2030",
-    "Allowoffline": true
+    "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "New2",
     "username": "New2",
     "key": "1234",
@@ -35,6 +45,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "0376e8a6fbbfa139",
     "username": "Vc105",
     "key": "Trial1hour Blocked",
@@ -42,6 +54,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "3a823cc083c5527d",
     "username": "Daniel",
     "key": "Tech@11 Blocked",
@@ -49,6 +63,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "d31f0c7d1f742a5e",
     "username": "+923089378922",
     "key": "Trial1hour Blocked",
@@ -56,6 +72,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a66c703ce387d01e",
     "username": "vc90",
     "key": "Trial1hourTech Blocked",
@@ -63,6 +81,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "3ae68a7e3tttttttttttt8b063f0",
     "username": "Vc30",
     "key": "VC30@1",
@@ -70,6 +90,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a66c703ce387d01e",
     "username": "+92 349 0807616",
     "key": "+92 349 0807616 Blocked",
@@ -77,6 +99,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "32645e876f12f591",
     "username": "+972 59-343-7717",
     "key": "+972 59-343-7717 Blocked",
@@ -84,6 +108,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "9660a429d480b3dd",
     "username": "vc22",
     "key": "+213 669 64 67 79 Blocked",
@@ -91,6 +117,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "653dc55c212ttttttttt8acblock50",
     "username": "+57 323 6914653",
     "key": "+57 323 6914653",
@@ -98,6 +126,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "2f745002924d21a1",
     "username": "+923342768284",
     "key": "+923342768284 Blocked",
@@ -105,6 +135,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "13575bb8b31bttttttttt0d13",
     "username": "A@",
     "key": "NewUser101",
@@ -112,6 +144,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "e663d1e63bd99875",
     "username": "+880 1614-642832",
     "key": "+880 1614-642832 Blocked",
@@ -119,6 +153,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "7f7ba86c25cd45f8",
     "username": "+880 1843-043803 oct4 - murch4",
     "key": "+880 1843-043803",
@@ -126,6 +162,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "767835fa1917a421",
     "username": "Telegram mi mi",
     "key": "User1250block",
@@ -133,6 +171,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "65c586791190dcf5",
     "username": "+880 1868-509466 oct5 nov5",
     "key": "01868509466block",
@@ -140,6 +180,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "e6d880db9337a3a5",
     "username": "Telegram user1",
     "key": "User1230block",
@@ -147,6 +189,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "c79386ed28175b51",
     "username": "+91 94878 32416",
     "key": "+919487832416block",
@@ -154,6 +198,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "4a56aeb15f752a6d",
     "username": "Telegram vilain",
     "key": "Vcamerablock",
@@ -161,6 +207,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "ef11d02241367b17",
     "username": "Nirob Sumon oct 6 - nov 6",
     "key": "SK10",
@@ -168,6 +216,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "31079483d83dd421",
     "username": "hafizul1",
     "key": "Alamin@1block",
@@ -175,6 +225,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "99d225d05fbff0db",
     "username": "+880 1920-512532",
     "key": "01920512532block",
@@ -182,6 +234,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "b38230ca08b1bf7b",
     "username": "hafizul 2",
     "key": "Musfiq@1f",
@@ -189,6 +243,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "0a96875c8d3cd64e",
     "username": "hafizul3",
     "key": "Shariq@1block",
@@ -196,6 +252,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "23124c657cb0b19b",
     "username": "+20 10 65779907",
     "key": "+201065779907block",
@@ -203,6 +261,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "42a8cf4e9406606d",
     "username": "+54 9 3735 48-4018",
     "key": "+5493735484018block",
@@ -210,6 +270,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "0c3ffb57eaba43eb",
     "username": "hafizul",
     "key": "Adeel@10",
@@ -217,6 +279,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "b57ef3cd2d9582a3",
     "username": "hafizul",
     "key": "santo@1gft",
@@ -224,6 +288,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "e5614eb780af8b5b",
     "username": "hafizul-1",
     "key": "Bobby@10",
@@ -231,6 +297,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "0c3ffb57aba43ebghh",
     "username": "Hafizul",
     "key": "Irfan@1block",
@@ -238,6 +306,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "57ss98b47c60e2d02",
     "username": "7 Day +880 1777-292852",
     "key": "01777292852",
@@ -245,6 +315,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "fe5ss1add9c0026e83",
     "username": "3 days service",
     "key": "Newvcam1",
@@ -252,6 +324,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "2fa8f8b4c053493c",
     "username": "402/7 day service ",
     "key": "Vcamera@1block",
@@ -259,6 +333,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "2ec996512423da34hhh",
     "username": "Hhhhhh",
     "key": "Vcamera1",
@@ -266,6 +342,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "32a708f8b0e2c5b2",
     "username": "1000৳ nowrin",
     "key": "nowrin",
@@ -273,6 +351,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "9f33a75302554dd2",
     "username": "MySelf",
     "key": "Vcamera11",
@@ -280,6 +360,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "sssss2425cde95807a56d",
     "username": "+880 1707-556444",
     "key": "Vcam@@1",
@@ -287,6 +369,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "e061d39c4f38fa12",
     "username": "01407801012 - 2500৳",
     "key": "Vcamera1111blocked",
@@ -294,6 +378,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "d70f9d7ad662d15c",
     "username": "Haidar",
     "key": "2Daysblock",
@@ -301,6 +387,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "5db571f792dfd153",
     "username": "40$- paid",
     "key": "Vcameravip1100",
@@ -308,6 +396,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "2eb1c8d8a5c549b3",
     "username": "RRRR",
     "key": "Vcamerapro2block",
@@ -315,6 +405,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "9240f5f0aefc0869",
     "username": "Rubel",
     "key": "Vcameravip3block",
@@ -322,6 +414,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "d712a646ce213a5b",
     "username": "NewTG+20$",
     "key": "United@1",
@@ -329,6 +423,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "444af8b1c5ea3ed7",
     "username": "OG",
     "key": "Vcamera4block",
@@ -336,6 +432,8 @@
     "Allowoffline": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "f2f20c3445c0202a",
     "username": "+880 1757-911407",
     "key": "01757911407",
