@@ -134,7 +134,8 @@
     "username": "Telegram user1",
     "key": "User1230block",
     "expirydate": "01/09/2027",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
