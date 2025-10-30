@@ -154,7 +154,8 @@
     "username": "A@",
     "key": "NewUser101",
     "expirydate": "03-10-2026",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
@@ -163,7 +164,8 @@
     "username": "+880 1614-642832",
     "key": "+880 1614-642832 Blocked",
     "expirydate": "31-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
