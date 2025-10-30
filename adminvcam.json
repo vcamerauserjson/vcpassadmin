@@ -311,7 +311,8 @@
     "username": "hafizul",
     "key": "santo@1gft",
     "expirydate": "12-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
