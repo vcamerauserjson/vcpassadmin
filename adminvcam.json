@@ -6,7 +6,8 @@
     "username": "Tech Vai",
     "key": "TechVai",
     "expirydate": "01/07/2027",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
