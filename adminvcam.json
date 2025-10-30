@@ -271,7 +271,8 @@
     "username": "hafizul3",
     "key": "Shariq@1block",
     "expirydate": "31-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
@@ -280,7 +281,8 @@
     "username": "+20 10 65779907",
     "key": "+201065779907block",
     "expirydate": "31-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
