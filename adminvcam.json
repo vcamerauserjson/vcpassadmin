@@ -222,7 +222,8 @@
     "username": "Telegram vilain",
     "key": "Vcamerablock",
     "expirydate": "31-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
@@ -240,7 +241,8 @@
     "username": "hafizul1",
     "key": "Alamin@1block",
     "expirydate": "31-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
