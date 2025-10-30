@@ -261,7 +261,8 @@
     "username": "hafizul 2",
     "key": "Musfiq@1f",
     "expirydate": "31-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
