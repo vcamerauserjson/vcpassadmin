@@ -26,7 +26,8 @@
     "username": "Nequi",
     "key": "Nequi@1",
     "expirydate": "01/06/2028",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
