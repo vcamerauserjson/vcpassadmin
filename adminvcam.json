@@ -477,5 +477,15 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "New day telegram",
+    "device_id": "59616be583cb3ed5",
+    "key": "vcamera pro 8",
+    "expirydate": "12-12-2025",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 0
   }
 ]
