@@ -486,6 +486,6 @@
     "key": "vcamera pro 8block",
     "expirydate": "12-12-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   }
 ]
