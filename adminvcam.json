@@ -466,7 +466,7 @@
     "key": "01757911407",
     "expirydate": "31-12-2050",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
