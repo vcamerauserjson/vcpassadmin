@@ -348,7 +348,8 @@
     "username": "3 days service",
     "key": "Newvcam1",
     "expirydate": "21-10-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
