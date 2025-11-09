@@ -411,7 +411,8 @@
     "username": "Haidar",
     "key": "2Daysblock",
     "expirydate": "20-10-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
