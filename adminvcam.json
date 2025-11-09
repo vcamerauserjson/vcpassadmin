@@ -476,7 +476,7 @@
     "key": "Block",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
@@ -496,7 +496,7 @@
     "key": "Shuraaa@1",
     "expirydate": "31-10-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
