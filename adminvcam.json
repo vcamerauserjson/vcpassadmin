@@ -375,7 +375,8 @@
     "username": "1000৳ nowrin",
     "key": "nowrin",
     "expirydate": "31-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
