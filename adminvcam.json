@@ -420,7 +420,8 @@
     "username": "40$- paid",
     "key": "Vcameravip1100",
     "expirydate": "12-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
