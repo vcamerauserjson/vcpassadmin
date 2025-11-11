@@ -174,7 +174,8 @@
     "username": "+880 1843-043803 oct4 - murch4",
     "key": "+880 1843-043803",
     "expirydate": "31-12-2026",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
