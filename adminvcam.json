@@ -169,7 +169,7 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
+    "paymentBDT": 1000,
     "device_id": "7f7ba86c25cd45f8Block",
     "username": "+880 1843-043803 oct4 - murch4",
     "key": "+880 1843-043803",
