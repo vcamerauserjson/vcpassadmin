@@ -544,13 +544,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 2000,
     "username": "Shakil",
     "device_id": "a78a8f5980d64364",
     "key": "Vcampro@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Bbdddddddddd",
+    "device_id": "d96a02b178d85707",
+    "key": "Test@@11",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
     "blocked": false,
     "paymentUSD": 0,
-    "paymentBDT": 2000
+    "paymentBDT": 0
   }
 ]
