@@ -234,7 +234,8 @@
     "username": "Nirob Sumon oct 6 - nov 6",
     "key": "SK10",
     "expirydate": "31-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
