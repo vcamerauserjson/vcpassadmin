@@ -576,11 +576,11 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
+    "paymentBDT": 200,
     "username": "+880 1734-447431",
     "device_id": "e1ef1b758118ae1e",
     "key": "+8801734447431",
-    "expirydate": "31-10-2025",
+    "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": false
   }
