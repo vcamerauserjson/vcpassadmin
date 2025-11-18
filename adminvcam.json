@@ -572,7 +572,7 @@
     "key": "+2348144345975",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
@@ -585,13 +585,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 2500,
     "username": "Imran hafizul",
     "device_id": "386e9fa203e717b3",
     "key": "VcameraVIp@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 2500
+    "blocked": false
   }
 ]
