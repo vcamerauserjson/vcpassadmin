@@ -595,13 +595,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 2000,
     "username": "Jamil",
     "device_id": "9b16549e16786df0",
     "key": "Vcamerapro@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Mostafa Noori",
+    "device_id": "6cb7440079cd99d8",
+    "key": "Mostafa@1",
+    "expirydate": "21-01-2026",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 2000
+    "paymentUSD": 5,
+    "paymentBDT": 0
   }
 ]
