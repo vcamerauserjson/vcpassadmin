@@ -605,13 +605,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 5,
+    "paymentBDT": 0,
     "username": "Mostafa Noori",
     "device_id": "6cb7440079cd99d8",
     "key": "Mostafa@1",
     "expirydate": "21-01-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Mostafa2",
+    "device_id": "fp3ux74me0o7o2kc",
+    "key": "EmutatorTest@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 5,
+    "paymentUSD": 0,
     "paymentBDT": 0
   }
 ]
