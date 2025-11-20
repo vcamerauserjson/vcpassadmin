@@ -593,5 +593,15 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Jamil",
+    "device_id": "9b16549e16786df0",
+    "key": "Vcamerapro@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 2000
   }
 ]
