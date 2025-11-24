@@ -175,7 +175,7 @@
     "key": "+880 1843-043803",
     "expirydate": "31-12-2026",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
