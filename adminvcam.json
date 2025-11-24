@@ -605,16 +605,6 @@
     "blocked": false
   },
   {
-    "paymentUSD": 5,
-    "paymentBDT": 0,
-    "username": "Mostafa Noori",
-    "device_id": "6cb7440079cd99d8",
-    "key": "Mostafa@1",
-    "expirydate": "21-01-2026",
-    "Allowoffline": false,
-    "blocked": false
-  },
-  {
     "paymentUSD": 0,
     "paymentBDT": 500,
     "username": "Tanvir",
