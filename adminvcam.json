@@ -635,13 +635,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Babu",
     "device_id": "11e9c86c8a34eb9e",
     "key": "Babu@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Alphax",
+    "device_id": "e0bbb798fc4ba394",
+    "key": "Alphax@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 0,
+    "paymentUSD": 48,
     "paymentBDT": 0
   }
 ]
