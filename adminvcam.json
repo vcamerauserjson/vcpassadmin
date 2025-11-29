@@ -632,7 +632,7 @@
     "key": "Towfi@2",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
@@ -655,13 +655,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 40,
+    "paymentBDT": 0,
     "username": "Alphax2",
     "device_id": "ac85456fbfa6dae3",
     "key": "Alphax@2",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 40,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
