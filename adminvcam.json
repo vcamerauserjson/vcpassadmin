@@ -519,9 +519,9 @@
     "paymentUSD": 0,
     "paymentBDT": 500,
     "username": "Momin",
-    "device_id": "a989821d28300cd2Block",
+    "device_id": "a989821d28300cd2",
     "key": "Momin@1",
-    "expirydate": "02-12-2025",
+    "expirydate": "06-12-2025",
     "Allowoffline": false,
     "blocked": false
   },
