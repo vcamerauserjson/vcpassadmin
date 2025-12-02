@@ -452,7 +452,8 @@
     "username": "NewTG+20$",
     "key": "United@1",
     "expirydate": "31-10-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
