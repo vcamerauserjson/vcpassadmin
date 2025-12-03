@@ -664,5 +664,15 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "China",
+    "device_id": "66867a140683cb58",
+    "key": "25USDT@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 25,
+    "paymentBDT": 0
   }
 ]
