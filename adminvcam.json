@@ -666,13 +666,23 @@
     "blocked": true
   },
   {
+    "paymentUSD": 25,
+    "paymentBDT": 0,
     "username": "China",
     "device_id": "66867a140683cb58",
     "key": "25USDT@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "China2",
+    "device_id": "802272683d79e782",
+    "key": "New@#12424",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 25,
+    "paymentUSD": 0,
     "paymentBDT": 0
   }
 ]
