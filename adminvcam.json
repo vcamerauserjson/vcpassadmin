@@ -674,5 +674,15 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Nirob Sumon 2",
+    "device_id": "824ffb755692616c",
+    "key": "SK@11",
+    "expirydate": "04-01-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 500
   }
 ]
