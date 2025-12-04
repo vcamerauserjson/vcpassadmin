@@ -551,7 +551,7 @@
     "username": "Shakil",
     "device_id": "a78a8f5980d64364",
     "key": "Vcampro@1",
-    "expirydate": "31-12-2024",
+    "expirydate": "04-01-2026",
     "Allowoffline": false,
     "blocked": false
   },
@@ -676,13 +676,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 500,
     "username": "Nirob Sumon 2",
     "device_id": "824ffb755692616c",
     "key": "SK@11",
     "expirydate": "04-01-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 500
+    "blocked": false
   }
 ]
