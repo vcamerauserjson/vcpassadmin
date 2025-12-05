@@ -686,13 +686,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Siam",
     "device_id": "923c62f5f1083749",
     "key": "Siam@Cam",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Jason",
+    "device_id": "d8fc5201fdb7432e",
+    "key": "Jason@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 0,
+    "paymentUSD": 50,
     "paymentBDT": 0
   }
 ]
