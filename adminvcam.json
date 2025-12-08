@@ -724,15 +724,5 @@
     "expirydate": "08-01-2026",
     "Allowoffline": false,
     "blocked": false
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 3000,
-    "username": "Shahin",
-    "device_id": "42996e202f8614db",
-    "key": "Shahin@1",
-    "expirydate": "31-12-2026",
-    "Allowoffline": false,
-    "blocked": false
   }
 ]
