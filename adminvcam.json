@@ -714,5 +714,15 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "Rinku",
+    "device_id": "503c65cada0da536",
+    "key": "Rinku@1",
+    "expirydate": "08-01-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 50
   }
 ]
