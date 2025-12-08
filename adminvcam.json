@@ -597,11 +597,11 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 2000,
+    "paymentBDT": 5000,
     "username": "Jamil",
-    "device_id": "9b16549e16786df0Block",
-    "key": "Vcamerapro@1",
-    "expirydate": "31-12-2024",
+    "device_id": "9b16549e16786df0",
+    "key": "Jamil@11",
+    "expirydate": "31-12-2026",
     "Allowoffline": false,
     "blocked": false
   },
@@ -726,13 +726,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 3000,
     "username": "Shahin",
     "device_id": "42996e202f8614db",
     "key": "Shahin@1",
     "expirydate": "31-12-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 3000
+    "blocked": false
   }
 ]
