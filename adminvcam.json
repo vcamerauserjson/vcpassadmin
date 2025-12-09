@@ -543,7 +543,7 @@
     "key": "SMCam",
     "expirydate": "11-01-2024",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
