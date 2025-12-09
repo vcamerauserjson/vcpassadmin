@@ -593,7 +593,7 @@
     "key": "VcameraVIp@1",
     "expirydate": "31-12-2024",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
