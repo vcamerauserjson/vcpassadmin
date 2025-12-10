@@ -716,13 +716,23 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 500,
     "username": "Rinku2",
     "device_id": "55cd11fe6defa1c0",
     "key": "Rinku@@11",
     "expirydate": "08-01-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Ripon",
+    "device_id": "965408b481d20269",
+    "key": "Ripon@@11",
+    "expirydate": "31-12-2026",
+    "Allowoffline": false,
     "blocked": false,
     "paymentUSD": 0,
-    "paymentBDT": 500
+    "paymentBDT": 0
   }
 ]
