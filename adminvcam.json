@@ -726,13 +726,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Ripon",
     "device_id": "965408b481d20269",
     "key": "Ripon@@11",
     "expirydate": "31-12-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": true
   }
 ]
