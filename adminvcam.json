@@ -583,7 +583,7 @@
     "key": "+8801734447431",
     "expirydate": "15-12-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
