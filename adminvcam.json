@@ -235,7 +235,7 @@
     "key": "SK10Block",
     "expirydate": "21-12-2025",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
