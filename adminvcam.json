@@ -764,5 +764,15 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "MAWA2",
+    "device_id": "eb927f76b654dc9c",
+    "key": "MAWA@22",
+    "expirydate": "24-01-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 15,
+    "paymentBDT": 0
   }
 ]
