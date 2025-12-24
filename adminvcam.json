@@ -759,8 +759,8 @@
     "paymentUSD": 0,
     "paymentBDT": 0,
     "username": "Testtt",
-    "device_id": "727156efcb206aafBlock",
-    "key": "Test@@@@@1Block",
+    "device_id": "727156efcb206aaf",
+    "key": "Test@@@@@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": false
