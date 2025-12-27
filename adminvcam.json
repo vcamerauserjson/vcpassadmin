@@ -394,7 +394,8 @@
     "username": "+880 1707-556444",
     "key": "Vcam@@1",
     "expirydate": "31-12-2025",
-    "Allowoffline": false
+    "Allowoffline": false,
+    "blocked": true
   },
   {
     "paymentUSD": 0,
