@@ -756,5 +756,15 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "+218 91-7419380",
+    "device_id": "66acbe62a1425e23",
+    "key": "VCC@@1",
+    "expirydate": "31-12-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 20,
+    "paymentBDT": 0
   }
 ]
