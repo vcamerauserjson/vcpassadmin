@@ -535,7 +535,7 @@
     "key": "SMCamblockkk",
     "expirydate": "11-01-2024",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
