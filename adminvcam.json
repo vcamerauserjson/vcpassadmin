@@ -786,5 +786,15 @@
     "expirydate": "04-02-2026",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "Pakistan",
+    "device_id": "8154c998b8312ce0",
+    "key": "Pakistan@@1",
+    "expirydate": "31-12-2027",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 6,
+    "paymentBDT": 0
   }
 ]
