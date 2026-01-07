@@ -788,13 +788,23 @@
     "blocked": true
   },
   {
+    "paymentUSD": 6,
+    "paymentBDT": 0,
     "username": "Pakistan",
     "device_id": "8154c998b8312ce0",
     "key": "Pakistan@@1",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "United11",
+    "device_id": "24141bd3800a114c",
+    "key": "TechMaster@2",
+    "expirydate": "31-12-2027",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 6,
+    "paymentUSD": 25,
     "paymentBDT": 0
   }
 ]
