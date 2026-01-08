@@ -715,7 +715,7 @@
     "key": "Rinku@@11",
     "expirydate": "08-01-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
