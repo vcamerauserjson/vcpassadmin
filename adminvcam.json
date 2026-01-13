@@ -98,16 +98,6 @@
     "blocked": false
   },
   {
-    "paymentUSD": 60,
-    "paymentBDT": 0,
-    "username": "Shuraaa",
-    "device_id": "ff6ff448421d3b23",
-    "key": "Shuraaa@1",
-    "expirydate": "31-10-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 0,
     "paymentBDT": 0,
     "username": "+57 324 4318779",
