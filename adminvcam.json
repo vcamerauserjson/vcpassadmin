@@ -98,16 +98,6 @@
     "blocked": false
   },
   {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "New day telegram",
-    "device_id": "59616be583cb3ed5block",
-    "key": "vcamera pro 8block",
-    "expirydate": "12-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 60,
     "paymentBDT": 0,
     "username": "Shuraaa",
