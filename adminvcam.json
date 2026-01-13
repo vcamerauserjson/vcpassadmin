@@ -109,16 +109,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "Salarzai",
-    "device_id": "5f0056725f379f4eBlock",
-    "key": "Hafi@10Block",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 2000,
     "username": "Shamir",
     "device_id": "48b02250270b1568",
