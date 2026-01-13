@@ -11,26 +11,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "device_id": "3ae68a7e3tttttttttttt8b063f0",
-    "username": "Vc30",
-    "key": "VC30@1",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "device_id": "a66c703ce387d01e",
-    "username": "+92 349 0807616",
-    "key": "+92 349 0807616 Blocked",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "device_id": "32645e876f12f591",
     "username": "+972 59-343-7717",
     "key": "+972 59-343-7717 Blocked",
