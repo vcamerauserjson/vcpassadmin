@@ -61,16 +61,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "device_id": "c79386ed28175b51",
-    "username": "+91 94878 32416",
-    "key": "+919487832416block",
-    "expirydate": "01/03/2027",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "device_id": "4a56aeb15f752a6d",
     "username": "Telegram vilain",
     "key": "Vcamerablock",
