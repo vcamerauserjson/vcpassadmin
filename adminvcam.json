@@ -80,16 +80,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "device_id": "sssss2425cde95807a56d",
-    "username": "+880 1707-556444",
-    "key": "Vcam@@1",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "device_id": "d70f9d7ad662d15c",
     "username": "Haidar",
     "key": "2Daysblock",
