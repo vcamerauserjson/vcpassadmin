@@ -71,26 +71,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "device_id": "b38230ca08b1bf7b",
-    "username": "hafizul 2",
-    "key": "Musfiq@1f",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "device_id": "0a96875c8d3cd64e",
-    "username": "hafizul3",
-    "key": "Shariq@1block",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "device_id": "23124c657cb0b19b",
     "username": "+20 10 65779907",
     "key": "+201065779907block",
