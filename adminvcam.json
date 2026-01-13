@@ -89,16 +89,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "device_id": "444af8b1c5ea3ed7",
-    "username": "OG",
-    "key": "Vcamera4block",
-    "expirydate": "12-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 2000,
     "device_id": "f2f20c3445c0202a",
     "username": "Permanent Sell",
