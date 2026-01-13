@@ -78,26 +78,6 @@
     "Allowoffline": false
   },
   {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "device_id": "2eb1c8d8a5c549b3",
-    "username": "RRRR",
-    "key": "Vcamerapro2block",
-    "expirydate": "12-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "device_id": "9240f5f0aefc0869",
-    "username": "Rubel",
-    "key": "Vcameravip3block",
-    "expirydate": "12-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 20,
     "paymentBDT": 0,
     "device_id": "d712a646ce213a5bBLOCK",
