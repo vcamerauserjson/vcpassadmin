@@ -11,16 +11,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "device_id": "a66c703ce387d01e",
-    "username": "vc90",
-    "key": "Trial1hourTech Blocked",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "device_id": "3ae68a7e3tttttttttttt8b063f0",
     "username": "Vc30",
     "key": "VC30@1",
