@@ -61,16 +61,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "device_id": "e6d880db9337a3a5",
-    "username": "Telegram user1",
-    "key": "User1230block",
-    "expirydate": "01/09/2027",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "device_id": "c79386ed28175b51",
     "username": "+91 94878 32416",
     "key": "+919487832416block",
