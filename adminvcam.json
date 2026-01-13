@@ -71,16 +71,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "device_id": "32a708f8b0e2c5b2block",
-    "username": "1000৳ nowrin",
-    "key": "nowrin",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "device_id": "9f33a75302554dd2",
     "username": "MySelf",
     "key": "Vcamera11",
