@@ -60,16 +60,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "device_id": "4a56aeb15f752a6d",
-    "username": "Telegram vilain",
-    "key": "Vcamerablock",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 1500,
     "device_id": "ef11d02241367b17",
     "username": "Nirob Sumon",
