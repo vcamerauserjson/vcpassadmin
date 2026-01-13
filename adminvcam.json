@@ -2,16 +2,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "device_id": "6d4d7d4f77ttttttttttttb0202a",
-    "username": "Nequi",
-    "key": "Nequi@1",
-    "expirydate": "01/06/2028",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "device_id": "4c3beff0a6b1224a",
     "username": "Admin Vai",
     "key": "TechMaster",
