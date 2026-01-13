@@ -71,16 +71,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "device_id": "99d225d05fbff0db",
-    "username": "+880 1920-512532",
-    "key": "01920512532block",
-    "expirydate": "01/07/2029",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "device_id": "b38230ca08b1bf7b",
     "username": "hafizul 2",
     "key": "Musfiq@1f",
