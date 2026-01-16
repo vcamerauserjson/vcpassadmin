@@ -376,5 +376,15 @@
     "expirydate": "31-12-2027",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Hafizul1234",
+    "device_id": "9f33a75302554dd2",
+    "key": "Hafizul@1",
+    "expirydate": "01-01-2030",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 5000,
+    "paymentBDT": 5000
   }
 ]
