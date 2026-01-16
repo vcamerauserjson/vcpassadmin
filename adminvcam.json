@@ -355,7 +355,7 @@
     "key": "TechMaster@2",
     "expirydate": "31-12-2050",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 52,
