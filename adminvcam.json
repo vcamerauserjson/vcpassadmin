@@ -385,16 +385,16 @@
     "key": "Bruninho@2",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
+    "paymentUSD": 15,
+    "paymentBDT": 0,
     "username": "Ankit Gupta",
     "device_id": "82094f33cdfbf2f1",
     "key": "Ankit@1111",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 15,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
