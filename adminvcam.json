@@ -396,5 +396,15 @@
     "expirydate": "31-12-2027",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "Testi",
+    "device_id": "2c749288528dc69d",
+    "key": "kemneki",
+    "expirydate": "31-12-2027",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 0
   }
 ]
