@@ -46,7 +46,7 @@
     "key": "SK10",
     "expirydate": "22-01-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
