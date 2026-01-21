@@ -40,11 +40,11 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 1500,
+    "paymentBDT": 2000,
     "device_id": "ef11d02241367b17",
     "username": "Nirob Sumon",
     "key": "SK10",
-    "expirydate": "22-01-2026",
+    "expirydate": "22-02-2026",
     "Allowoffline": false,
     "blocked": false
   },
