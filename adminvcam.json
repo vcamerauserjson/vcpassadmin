@@ -428,13 +428,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Uber test",
     "device_id": "854efdf5d8d980c7",
     "key": "UberTest@1",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "K47 Brazil",
+    "device_id": "e0c226f71722ad3f",
+    "key": "K47@1",
+    "expirydate": "31-12-2027",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 0,
+    "paymentUSD": 50,
     "paymentBDT": 0
   }
 ]
