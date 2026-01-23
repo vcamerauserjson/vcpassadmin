@@ -418,13 +418,23 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 5000,
     "username": "5000IFiC bank",
     "device_id": "9fccbad73b3bb105",
     "key": "MasterBD@1",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Uber test",
+    "device_id": "854efdf5d8d980c7",
+    "key": "UberTest@1",
+    "expirydate": "31-12-2027",
+    "Allowoffline": false,
     "blocked": false,
     "paymentUSD": 0,
-    "paymentBDT": 5000
+    "paymentBDT": 0
   }
 ]
