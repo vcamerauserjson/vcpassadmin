@@ -448,13 +448,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 3000,
     "username": "Mahabul",
     "device_id": "860d7c7805061313",
     "key": "Mahabul@11",
     "expirydate": "20-12-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Brazil30$",
+    "device_id": "55fc5bc5c5472229",
+    "key": "55fc5bc5c5472229",
+    "expirydate": "31-12-2027",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 3000
+    "paymentUSD": 30,
+    "paymentBDT": 0
   }
 ]
