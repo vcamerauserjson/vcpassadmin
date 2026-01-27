@@ -99,11 +99,11 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 500,
+    "paymentBDT": 700,
     "username": "Shakil",
     "device_id": "a78a8f5980d64364",
     "key": "Shakil@@@@11",
-    "expirydate": "27-01-2026",
+    "expirydate": "02-02-2026",
     "Allowoffline": false,
     "blocked": false
   },
@@ -458,13 +458,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 30,
+    "paymentBDT": 0,
     "username": "Brazil30$",
     "device_id": "55fc5bc5c5472229",
     "key": "55fc5bc5c5472229",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 30,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
