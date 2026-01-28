@@ -445,7 +445,7 @@
     "key": "K47@1",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
