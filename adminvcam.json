@@ -466,5 +466,15 @@
     "expirydate": "31-12-2027",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "SaniSMTool",
+    "device_id": "da0572a7447f48cb",
+    "key": "da0572a7447f48cb",
+    "expirydate": "01-07-2090",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 0
   }
 ]
