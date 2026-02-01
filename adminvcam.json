@@ -105,7 +105,7 @@
     "key": "Shakil@@@@11",
     "expirydate": "02-02-2010",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 48,
