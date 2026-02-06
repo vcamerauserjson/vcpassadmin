@@ -488,13 +488,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Brazil new2",
     "device_id": "0c026eb4afe5eefa",
     "key": "0c026eb4afe5eefa",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "LL",
+    "device_id": "d01adc22d1ae2869",
+    "key": "LL",
+    "expirydate": "31-12-2026",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 0,
+    "paymentUSD": 60,
     "paymentBDT": 0
   }
 ]
