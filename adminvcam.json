@@ -518,13 +518,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 50,
+    "paymentBDT": 0,
     "username": "Delete Account uber",
     "device_id": "6ac8d4ec2430b334",
     "key": "6ac8d4ec2430b334",
     "expirydate": "31-12-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Delete Account",
+    "device_id": "a4a118c5c128d09e",
+    "key": "Friend@1",
+    "expirydate": "31-12-2026",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 50,
+    "paymentUSD": 400,
     "paymentBDT": 0
   }
 ]
