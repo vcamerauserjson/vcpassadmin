@@ -556,5 +556,15 @@
     "expirydate": "31-12-2026",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "Bideshi newssss",
+    "device_id": "825a15ca2a96236a",
+    "key": "Vcamera@420",
+    "expirydate": "01-01-2027",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 60,
+    "paymentBDT": 0
   }
 ]
