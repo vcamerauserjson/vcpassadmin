@@ -495,7 +495,7 @@
     "key": "0c026eb4afe5eefa",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 60,
@@ -558,13 +558,13 @@
     "blocked": true
   },
   {
+    "paymentUSD": 60,
+    "paymentBDT": 0,
     "username": "Bideshi newssss",
     "device_id": "825a15ca2a96236a",
     "key": "Vcamera@420",
     "expirydate": "01-01-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 60,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
