@@ -42,9 +42,9 @@
     "paymentUSD": 0,
     "paymentBDT": 2000,
     "device_id": "ef11d02241367b17",
-    "username": "Nirob Sumon",
+    "username": "Nirob Sumon baki 500",
     "key": "SK10",
-    "expirydate": "22-02-2026",
+    "expirydate": "22-03-2026",
     "Allowoffline": false,
     "blocked": false
   },
@@ -568,13 +568,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 52,
+    "paymentBDT": 0,
     "username": "Richdom",
     "device_id": "4b6f87ee92799fc6",
     "key": "Richdom@1",
     "expirydate": "01-07-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 52,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
