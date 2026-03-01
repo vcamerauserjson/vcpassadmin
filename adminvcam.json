@@ -565,7 +565,7 @@
     "key": "Vcamera@420",
     "expirydate": "01-01-2027",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 52,
