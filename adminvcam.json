@@ -485,7 +485,7 @@
     "key": "0c026eb4afe5eefa",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 60,
@@ -578,13 +578,13 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 3500,
     "username": "PK",
     "device_id": "c6b0b36a94d6ba5f",
     "key": "PK@2026",
     "expirydate": "01-12-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 3500
+    "blocked": false
   }
 ]
