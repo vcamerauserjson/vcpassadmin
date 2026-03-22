@@ -485,7 +485,7 @@
     "key": "0c026eb4afe5eefa",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 60,
@@ -588,13 +588,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 45,
+    "paymentBDT": 0,
     "username": "Lion",
     "device_id": "2ce00d38a694fecf",
     "key": "Lion@@1",
     "expirydate": "01-07-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 45,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
