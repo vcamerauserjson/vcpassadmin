@@ -478,12 +478,12 @@
     "blocked": true
   },
   {
-    "paymentUSD": 0,
+    "paymentUSD": 20,
     "paymentBDT": 0,
     "username": "Brazil new2",
-    "device_id": "0c026eb4afe5eefaBlock",
+    "device_id": "0c026eb4afe5eefa",
     "key": "0c026eb4afe5eefa",
-    "expirydate": "31-12-2027",
+    "expirydate": "22-04-2026",
     "Allowoffline": false,
     "blocked": false
   },
