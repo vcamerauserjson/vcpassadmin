@@ -44,7 +44,7 @@
     "device_id": "ef11d02241367b17",
     "username": "Nirob Sumon",
     "key": "SK10",
-    "expirydate": "22-03-2026",
+    "expirydate": "23-04-2026",
     "Allowoffline": false,
     "blocked": false
   },
@@ -598,13 +598,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 50,
+    "paymentBDT": 0,
     "username": "+234 701 876 5902",
     "device_id": "f39e68a9d6ab2b6d",
     "key": "+2347018765902",
     "expirydate": "01-04-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 50,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
