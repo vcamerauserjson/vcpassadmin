@@ -606,5 +606,15 @@
     "expirydate": "01-04-2027",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Alex Script",
+    "device_id": "2c8af7ae405ced4b",
+    "key": "Alex1month",
+    "expirydate": "26-04-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 20,
+    "paymentBDT": 0
   }
 ]
