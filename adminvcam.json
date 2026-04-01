@@ -605,7 +605,7 @@
     "key": "+2347018765902",
     "expirydate": "01-04-2027",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 20,
