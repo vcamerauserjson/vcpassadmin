@@ -103,7 +103,7 @@
     "username": "Shakil",
     "device_id": "a78a8f5980d64364",
     "key": "Shakil@@@@11",
-    "expirydate": "01-04-2026",
+    "expirydate": "01-05-2026",
     "Allowoffline": false,
     "blocked": false
   },
@@ -618,13 +618,13 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "SK2 বাকি ৫০০৳",
     "device_id": "507e3da96a170fb7",
     "key": "SK@2",
     "expirydate": "29-04-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
