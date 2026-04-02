@@ -625,6 +625,6 @@
     "key": "SK@2",
     "expirydate": "29-04-2026",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   }
 ]
