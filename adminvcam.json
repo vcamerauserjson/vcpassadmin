@@ -628,10 +628,20 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 5000,
     "username": "Saidul 2",
     "device_id": "37362423df2dc3f9",
     "key": "Saidul@2222",
     "expirydate": "01-09-2026",
+    "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Saidul2",
+    "device_id": "dd970f294ef6db51",
+    "key": "Saidul@333",
+    "expirydate": "01-12-2026",
     "Allowoffline": false,
     "blocked": false,
     "paymentUSD": 0,
