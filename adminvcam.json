@@ -656,15 +656,5 @@
     "expirydate": "29-04-2026",
     "Allowoffline": false,
     "blocked": true
-  },
-  {
-    "username": "khan2",
-    "device_id": "1d6760266021821e",
-    "key": "Khan@222",
-    "expirydate": "29-04-2026",
-    "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 500
   }
 ]
