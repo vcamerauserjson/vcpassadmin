@@ -445,7 +445,7 @@
     "key": "Mahabul@11",
     "expirydate": "20-12-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 30,
