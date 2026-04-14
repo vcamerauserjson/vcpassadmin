@@ -668,13 +668,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 17,
+    "paymentBDT": 0,
     "username": "Do Hanh",
     "device_id": "3a4309b807a3a614",
     "key": "dohanh@111",
     "expirydate": "14-05-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Shivam India",
+    "device_id": "ef06b7eecae7d493",
+    "key": "Shivam@111",
+    "expirydate": "14-05-2026",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 17,
+    "paymentUSD": 15,
     "paymentBDT": 0
   }
 ]
