@@ -145,7 +145,7 @@
     "key": "Jamil@11",
     "expirydate": "31-12-2026",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
@@ -678,13 +678,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 15,
+    "paymentBDT": 0,
     "username": "Shivam India",
     "device_id": "ef06b7eecae7d493",
     "key": "Shivam@111",
     "expirydate": "14-05-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 15,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
