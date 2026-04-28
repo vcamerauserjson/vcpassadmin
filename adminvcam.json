@@ -688,12 +688,22 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "MD Ripon Ali Canada",
     "device_id": "7e60fa17dd0abe2fBlock",
     "key": "Ripon@111",
     "expirydate": "01-10-2027",
     "Allowoffline": false,
-    "blocked": true,
+    "blocked": true
+  },
+  {
+    "username": "Ripon canada",
+    "device_id": "2dc65ddc3c049334",
+    "key": "Ripon@222",
+    "expirydate": "01-06-2027",
+    "Allowoffline": false,
+    "blocked": false,
     "paymentUSD": 0,
     "paymentBDT": 0
   }
