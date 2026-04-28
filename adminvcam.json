@@ -693,7 +693,7 @@
     "key": "Ripon@111",
     "expirydate": "01-10-2027",
     "Allowoffline": false,
-    "blocked": false,
+    "blocked": true,
     "paymentUSD": 0,
     "paymentBDT": 0
   }
