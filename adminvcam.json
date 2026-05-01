@@ -619,11 +619,11 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
+    "paymentBDT": 500,
     "username": "SK2",
     "device_id": "507e3da96a170fb7",
     "key": "SK@2",
-    "expirydate": "03-05-2026",
+    "expirydate": "01-06-2026",
     "Allowoffline": false,
     "blocked": false
   },
