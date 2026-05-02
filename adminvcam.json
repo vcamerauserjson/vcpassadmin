@@ -99,11 +99,11 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 400,
+    "paymentBDT": 500,
     "username": "Shakil",
     "device_id": "a78a8f5980d64364",
     "key": "Shakil@@@@11",
-    "expirydate": "01-05-2026",
+    "expirydate": "02-06-2026",
     "Allowoffline": false,
     "blocked": false
   },
