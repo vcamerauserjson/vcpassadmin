@@ -706,5 +706,15 @@
     "expirydate": "01-06-2027",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "MD Shakil",
+    "device_id": "3e80226a6a63ce82",
+    "key": "ShakilBD@111",
+    "expirydate": "01-12-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 3500
   }
 ]
