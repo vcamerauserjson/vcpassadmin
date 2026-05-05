@@ -148,16 +148,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "Testtt",
-    "device_id": "727156efcb206aafBlock",
-    "key": "Test@@@@@1Block",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 20,
     "paymentBDT": 0,
     "username": "+218 91-7419380",
