@@ -158,16 +158,6 @@
     "blocked": false
   },
   {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "ShamimTG",
-    "device_id": "877138f702899872Blovk",
-    "key": "Shamim@@@1Block",
-    "expirydate": "04-02-2026",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 6,
     "paymentBDT": 0,
     "username": "Pakistan",
