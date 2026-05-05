@@ -128,16 +128,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "+92 344 3859579",
-    "device_id": "79e9a12e31242110Block",
-    "key": "+923443859579",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 25,
     "paymentBDT": 0,
     "username": "China2",
