@@ -160,16 +160,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "username": "TestSs",
-    "device_id": "4e3ca6ee05e9e1dbBlock",
-    "key": "Key@@@@1",
-    "expirydate": "31-12-2027",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "username": "ShamimTG",
     "device_id": "877138f702899872Blovk",
     "key": "Shamim@@@1Block",
