@@ -118,16 +118,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 50,
-    "paymentBDT": 0,
-    "username": "Jason",
-    "device_id": "d8fc5201fdb7432eBlock",
-    "key": "Jason@1",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 0,
     "paymentBDT": 0,
     "username": "Faysal",
