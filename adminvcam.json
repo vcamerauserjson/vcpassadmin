@@ -398,16 +398,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 50,
-    "paymentBDT": 0,
-    "username": "Roger",
-    "device_id": "677fe02dd2f8b384Block",
-    "key": "Roger@1",
-    "expirydate": "01-05-2029",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 0,
     "paymentBDT": 3500,
     "username": "PK",
