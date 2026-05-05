@@ -328,16 +328,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 15,
-    "paymentBDT": 0,
-    "username": "T53",
-    "device_id": "26479c45858dd4bc",
-    "key": "26479c45858dd4bc",
-    "expirydate": "31-12-2000",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 50,
     "paymentBDT": 0,
     "username": "Delete Account uber",
