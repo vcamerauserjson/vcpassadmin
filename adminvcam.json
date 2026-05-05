@@ -59,16 +59,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 2000,
-    "username": "Shamir",
-    "device_id": "48b02250270b1568",
-    "key": "VCM@@1",
-    "expirydate": "11-01-2000",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 500,
     "username": "Shakil",
     "device_id": "a78a8f5980d64364",
