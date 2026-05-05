@@ -438,16 +438,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 20,
-    "paymentBDT": 0,
-    "username": "Alex Script",
-    "device_id": "2c8af7ae405ced4bBlock",
-    "key": "Alex1month",
-    "expirydate": "26-04-2026",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 0,
     "paymentBDT": 500,
     "username": "SK2",
