@@ -485,16 +485,16 @@
     "key": "ShakilBD@111",
     "expirydate": "01-12-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 3500,
     "username": "MD Shakil2",
     "device_id": "0535b552a079f0c0",
     "key": "12345678",
     "expirydate": "01-05-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 3500
+    "blocked": false
   }
 ]
