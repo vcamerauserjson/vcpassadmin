@@ -498,13 +498,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 20,
+    "paymentBDT": 0,
     "username": "Omar",
     "device_id": "36f179335b73c368",
     "key": "OMAR@111",
     "expirydate": "07-06-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 20,
-    "paymentBDT": 0
+    "blocked": true
   }
 ]
