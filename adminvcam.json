@@ -498,13 +498,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 3500,
     "username": "Shakil",
     "device_id": "5cc1fb26d47cd0f7",
     "key": "Shakil@@@@@1111",
     "expirydate": "01-12-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Limon",
+    "device_id": "7fc11b172eef0af2",
+    "key": "Limon@111",
+    "expirydate": "10-06-2026",
+    "Allowoffline": false,
     "blocked": false,
     "paymentUSD": 0,
-    "paymentBDT": 3500
+    "paymentBDT": 500
   }
 ]
