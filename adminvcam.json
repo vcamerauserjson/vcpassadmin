@@ -508,9 +508,19 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 500,
     "username": "Limon",
     "device_id": "7fc11b172eef0af2",
     "key": "Limon@111",
+    "expirydate": "10-06-2026",
+    "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Rakib",
+    "device_id": "bdc28e7f9f89a3ae",
+    "key": "Rakib@@1111",
     "expirydate": "10-06-2026",
     "Allowoffline": false,
     "blocked": false,
