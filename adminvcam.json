@@ -526,5 +526,15 @@
     "expirydate": "10-06-2026",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Hafizul",
+    "device_id": "78313c79c5ad0d14",
+    "key": "63%54%6%8%**)(7&-:'\"*&%65৳36৳&৳*%",
+    "expirydate": "01-07/2027",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 0
   }
 ]
