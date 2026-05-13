@@ -548,13 +548,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Bideshi hafizul",
     "device_id": "194cecff08a28ddc",
     "key": "Gdfdg#1",
     "expirydate": "01-07-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": true
   }
 ]
