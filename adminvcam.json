@@ -538,13 +538,23 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 500,
     "username": "Pranto",
     "device_id": "a5b1dce3fe5492ba",
     "key": "Pranto@1",
     "expirydate": "12-06-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "sani new dialog",
+    "device_id": "291f2d2dd9f8f510",
+    "key": "123456",
+    "expirydate": "01-07-2038",
+    "Allowoffline": false,
     "blocked": false,
     "paymentUSD": 0,
-    "paymentBDT": 500
+    "paymentBDT": 0
   }
 ]
