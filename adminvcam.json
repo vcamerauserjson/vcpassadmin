@@ -556,5 +556,15 @@
     "expirydate": "01-07-2027",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "PRANTO",
+    "device_id": "34b919d0bcb58627",
+    "key": "PRANTO@2",
+    "expirydate": "12-06-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 500
   }
 ]
