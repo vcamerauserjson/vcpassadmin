@@ -556,5 +556,15 @@
     "expirydate": "10-06-2026",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Bideshi WhatsApp",
+    "device_id": "87c15e4fe5942072",
+    "key": "Vcamera@202600",
+    "expirydate": "22-08-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 25,
+    "paymentBDT": 0
   }
 ]
