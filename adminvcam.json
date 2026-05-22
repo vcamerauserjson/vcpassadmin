@@ -315,7 +315,7 @@
     "key": "0c026eb4afe5eefa",
     "expirydate": "22-05-2026",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 50,
@@ -558,13 +558,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 25,
+    "paymentBDT": 0,
     "username": "Bideshi WhatsApp",
     "device_id": "87c15e4fe5942072",
     "key": "Vcamera@202600",
     "expirydate": "22-08-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 25,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
