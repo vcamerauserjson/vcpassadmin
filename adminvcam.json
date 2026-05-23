@@ -505,7 +505,7 @@
     "key": "Shakil@@@@@1111",
     "expirydate": "01-12-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
