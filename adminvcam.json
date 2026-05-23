@@ -495,7 +495,7 @@
     "key": "12345678",
     "expirydate": "01-05-2027",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
