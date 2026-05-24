@@ -110,16 +110,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "username": "Ripon",
-    "device_id": "965408b481d20269Block",
-    "key": "Ripon@@11Block",
-    "expirydate": "31-12-2026",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "username": "Brazil1",
     "device_id": "316cd7a86f865fffBlock",
     "key": "Brazil@1",
