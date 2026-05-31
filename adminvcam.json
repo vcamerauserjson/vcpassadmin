@@ -546,5 +546,15 @@
     "expirydate": "01-08-2026",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Chamet Official",
+    "device_id": "90c26cf83622442e",
+    "key": "LifeTime@2090",
+    "expirydate": "01-07-2029",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 180,
+    "paymentBDT": 0
   }
 ]
