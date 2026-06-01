@@ -65,7 +65,7 @@
     "key": "Shakil@@@@11",
     "expirydate": "02-06-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 48,
