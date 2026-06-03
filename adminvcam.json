@@ -281,8 +281,8 @@
     "paymentUSD": 40,
     "paymentBDT": 0,
     "username": "Brazil new2",
-    "device_id": "0c026eb4afe5eefaBlock",
-    "key": "0c026eb4afe5eefa",
+    "device_id": "0c026eb4afe5eefa",
+    "key": "NewUser2",
     "expirydate": "22-06-2026",
     "Allowoffline": false,
     "blocked": false
