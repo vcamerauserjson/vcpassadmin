@@ -576,5 +576,15 @@
     "expirydate": "01-06-2027",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Chamet New Device",
+    "device_id": "e1d9f521f0dfabbf",
+    "key": "Chamet@New",
+    "expirydate": "01-07-2027",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 0
   }
 ]
