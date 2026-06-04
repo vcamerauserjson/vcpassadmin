@@ -578,13 +578,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Chamet New Device",
     "device_id": "e1d9f521f0dfabbf",
     "key": "Chamet@New",
     "expirydate": "01-07-2027",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "+212 604-192866",
+    "device_id": "7de5269f268035ad",
+    "key": "7de5269f268035ad",
+    "expirydate": "04-07-2026",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 0,
+    "paymentUSD": 20,
     "paymentBDT": 0
   }
 ]
