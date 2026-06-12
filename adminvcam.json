@@ -105,7 +105,7 @@
     "key": "Jamil@11Block",
     "expirydate": "31-12-2026",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
