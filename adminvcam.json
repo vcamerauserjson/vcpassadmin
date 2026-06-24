@@ -89,16 +89,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "BD1",
-    "device_id": "07c8ec39758ae6c1Block",
-    "key": "VCUSER1",
-    "expirydate": "31-12-2027",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 5000,
     "username": "5000IFiC bank",
     "device_id": "9fccbad73b3bb105",
@@ -156,16 +146,6 @@
     "expirydate": "31-12-2027",
     "Allowoffline": false,
     "blocked": true
-  },
-  {
-    "paymentUSD": 40,
-    "paymentBDT": 0,
-    "username": "Brazil new2",
-    "device_id": "0c026eb4afe5eefa",
-    "key": "NewUser2",
-    "expirydate": "22-06-2026",
-    "Allowoffline": false,
-    "blocked": false
   },
   {
     "paymentUSD": 50,
