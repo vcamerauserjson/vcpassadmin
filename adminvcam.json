@@ -11,16 +11,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "device_id": "e663d1e63bd99875",
-    "username": "+880 1614-642832",
-    "key": "+880 1614-642832 Blocked",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "device_id": "9f33a75302554dd2",
     "username": "MySelf",
     "key": "Vcamera11",
