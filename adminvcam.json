@@ -188,16 +188,6 @@
     "blocked": false
   },
   {
-    "paymentUSD": 45,
-    "paymentBDT": 0,
-    "username": "Lion",
-    "device_id": "2ce00d38a694fecfBlock",
-    "key": "Lion@@1",
-    "expirydate": "01-07-2027",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 50,
     "paymentBDT": 0,
     "username": "+234 701 876 5902",
