@@ -398,16 +398,6 @@
     "blocked": false
   },
   {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "Chamet official 2",
-    "device_id": "b3c1544e304e2116Block",
-    "key": "LifeTime@2090@",
-    "expirydate": "01-07-2028",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 180,
     "paymentBDT": 0,
     "username": "Test",
