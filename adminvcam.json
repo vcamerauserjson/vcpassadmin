@@ -88,16 +88,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 50,
-    "paymentBDT": 0,
-    "username": "Ronan Ontonio",
-    "device_id": "24141bd3800a114cBlock",
-    "key": "TechMaster@2",
-    "expirydate": "31-12-2010",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 0,
     "paymentBDT": 0,
     "username": "BD1",
