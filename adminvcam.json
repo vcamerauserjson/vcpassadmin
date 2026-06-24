@@ -98,16 +98,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 52,
-    "paymentBDT": 0,
-    "username": "Jeefren Abd",
-    "device_id": "c4ef0f6535b90ab9",
-    "key": "JeefrenAbd@1",
-    "expirydate": "31-12-2010",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 50,
     "paymentBDT": 0,
     "username": "Leo",
