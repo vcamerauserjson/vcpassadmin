@@ -88,16 +88,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 6,
-    "paymentBDT": 0,
-    "username": "Pakistan",
-    "device_id": "8154c998b8312ce0",
-    "key": "Pakistan@@1",
-    "expirydate": "31-12-2000",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 50,
     "paymentBDT": 0,
     "username": "Ronan Ontonio",
