@@ -443,7 +443,7 @@
     "key": "Jibon@1",
     "expirydate": "21-08-2026",
     "Allowoffline": false,
-    "blocked": false,
+    "blocked": true,
     "paymentUSD": 0,
     "paymentBDT": 500
   },
