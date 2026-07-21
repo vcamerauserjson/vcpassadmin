@@ -329,16 +329,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "Bideshi hafizul",
-    "device_id": "194cecff08a28ddcBlovk",
-    "key": "Gdfdg#1",
-    "expirydate": "01-07-2027",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 500,
     "username": "Pranto",
     "device_id": "34b919d0bcb58627Block",
