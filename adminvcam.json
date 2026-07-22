@@ -385,7 +385,7 @@
     "key": "Brazil@111",
     "expirydate": "23-07-1960",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
