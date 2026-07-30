@@ -395,7 +395,7 @@
     "key": "RakibSS",
     "expirydate": "30-07-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
