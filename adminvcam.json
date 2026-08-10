@@ -426,5 +426,15 @@
     "expirydate": "16-08-2026",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Daury",
+    "device_id": "4f43ec816b194e9c",
+    "key": "Daury@1",
+    "expirydate": "01-12-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 67,
+    "paymentBDT": 0
   }
 ]
