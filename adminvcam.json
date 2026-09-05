@@ -445,7 +445,7 @@
     "key": "KEY@2026",
     "expirydate": "05-10-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "username": "Brazil Regular33333",
