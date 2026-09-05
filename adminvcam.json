@@ -438,9 +438,19 @@
     "blocked": false
   },
   {
+    "paymentUSD": 50,
+    "paymentBDT": 0,
     "username": "Brazil Regular 2",
     "device_id": "b3b160ec1773505e",
     "key": "KEY@2026",
+    "expirydate": "05-10-2026",
+    "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Brazil Regular33333",
+    "device_id": "a250a10237e33269",
+    "key": "KEY@2233",
     "expirydate": "05-10-2026",
     "Allowoffline": false,
     "blocked": false,
