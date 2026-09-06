@@ -448,9 +448,19 @@
     "blocked": true
   },
   {
+    "paymentUSD": 50,
+    "paymentBDT": 0,
     "username": "Brazil Regular33333",
     "device_id": "a250a10237e33269",
     "key": "KEY@2233",
+    "expirydate": "05-10-2026",
+    "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Brazil regular redmi",
+    "device_id": "05701f48aa87f848",
+    "key": "KEY@200",
     "expirydate": "05-10-2026",
     "Allowoffline": false,
     "blocked": false,
