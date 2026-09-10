@@ -475,6 +475,6 @@
     "key": "5DAY@2026",
     "expirydate": "15-09-2026",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   }
 ]
