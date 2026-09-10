@@ -468,12 +468,12 @@
     "blocked": false
   },
   {
-    "paymentUSD": 0,
+    "paymentUSD": 35,
     "paymentBDT": 0,
-    "username": "Abal",
-    "device_id": "a87616a65003e5bdBlock",
-    "key": "Test@11111",
-    "expirydate": "10-12-2027",
+    "username": "Azerbaijan 5day",
+    "device_id": "a87616a65003e5bd",
+    "key": "5DAY@2026",
+    "expirydate": "15-09-2026",
     "Allowoffline": false,
     "blocked": true
   }
