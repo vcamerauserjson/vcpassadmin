@@ -478,13 +478,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 3500,
+    "paymentBDT": 0,
     "username": "atiqur",
     "device_id": "c086b2eeb662adfb",
     "key": "atiqur@1",
     "expirydate": "01-08-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 3500,
-    "paymentBDT": 0
+    "blocked": true
   }
 ]
