@@ -475,7 +475,7 @@
     "key": "5DAY@2026",
     "expirydate": "15-09-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 3500,
