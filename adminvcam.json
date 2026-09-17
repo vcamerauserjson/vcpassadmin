@@ -488,13 +488,13 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "One Day",
     "device_id": "117864851fc20583",
     "key": "1DAY@2026",
     "expirydate": "18-09-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": true
   }
 ]
