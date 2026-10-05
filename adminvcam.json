@@ -5,7 +5,7 @@
     "device_id": "4c3beff0a6b1224a",
     "username": "Admin Vai",
     "key": "TechMasters",
-    "expirydate": "03-10-2030",
+    "expirydate": "03-10-2000",
     "Allowoffline": false
   },
   {
@@ -443,7 +443,7 @@
     "username": "Brazil regular redmi",
     "device_id": "05701f48aa87f848",
     "key": "KEY@200",
-    "expirydate": "05-10-2026",
+    "expirydate": "05-10-2000",
     "Allowoffline": false,
     "blocked": false
   },
