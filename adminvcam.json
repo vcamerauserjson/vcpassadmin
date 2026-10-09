@@ -477,15 +477,5 @@
     "expirydate": "26-10-2026",
     "Allowoffline": false,
     "blocked": false
-  },
-  {
-    "username": "New",
-    "device_id": "3e4d6870391b270d",
-    "key": "TEST@111",
-    "expirydate": "01-07-2028",
-    "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
   }
 ]
