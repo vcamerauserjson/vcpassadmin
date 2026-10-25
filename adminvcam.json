@@ -436,7 +436,7 @@
     "key": "NEW@900",
     "expirydate": "05-11-2000",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 35,
