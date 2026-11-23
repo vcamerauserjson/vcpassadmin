@@ -369,12 +369,12 @@
     "blocked": false
   },
   {
-    "paymentUSD": 50,
+    "paymentUSD": 40,
     "paymentBDT": 0,
     "username": "Brazil3",
     "device_id": "ded9e5ba0fc61da9",
     "key": "Brazil@111",
-    "expirydate": "25-11-2026",
+    "expirydate": "14-12-2026",
     "Allowoffline": false,
     "blocked": false
   },
